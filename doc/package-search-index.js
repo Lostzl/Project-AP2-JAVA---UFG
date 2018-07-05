@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.br.vangeld.contas.exception"},{"l":"com.br.vangeld.contas.model"},{"l":"com.br.vangeld.endereco.model"},{"l":"com.br.vangeld.graphic.model"},{"l":"com.br.vangeld.pessoas.exception"},{"l":"com.br.vangeld.pessoas.model"}]
